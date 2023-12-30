@@ -1,7 +1,7 @@
 /*
 
 Author : Atishay Gupta
-Date : 29/12/2023
+Date : 30/12/2023
 Problem : Winner of an election
 Difficulty : Easy
 Problem Link : https://www.geeksforgeeks.org/problems/winner-of-an-election-where-votes-are-represented-as-candidate-names-1587115621/1
